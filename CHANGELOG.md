@@ -1,4 +1,7 @@
 # trunkata changelog
+
+0.2.2 - Fixed line-height dependency
+
 0.2.1 - Fixed test file for testling
 
 0.2.0 - Moved to `line-height` module, filled out README, added `bower.json`, `component.json`, completed IE6 support
