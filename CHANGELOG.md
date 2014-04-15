@@ -1,5 +1,7 @@
 # trunkata changelog
 
+0.2.4 - Bump line-height to v0.1.3
+
 0.2.3 - Bump line-height to v0.1.2
 
 0.2.2 - Fixed line-height dependency
